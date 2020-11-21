@@ -1,10 +1,10 @@
-## 👋 I'm an iOS dev at Shopify
+## 👋 I'm an iOS dev from 🇨🇦, working at Shopify
 
 <a href="https://shopify.com/mobile"><img src="https://github.com/josephroquedev/josephroquedev/raw/master/images/Shopify.png" width="64px" height="64px" /></a>
 <img width="16px" />
 <a href="https://shop.app"><img src="https://github.com/josephroquedev/josephroquedev/raw/master/images/Shop.png" width="64px" height="64px" /></a>
 
-## 📱 mostly I build mobile apps
+## 📱 mostly I build mobile apps for 🤖 and 🍎
 
 <a href="https://github.com/josephroquedev/bowling-companion"><img src="https://github.com/josephroquedev/josephroquedev/raw/master/images/BowlingCompanion.png" width="64px" height="64px" /></a>
 <img width="16px" />
