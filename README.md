@@ -22,7 +22,7 @@
 
 ## ✍️ occasionally I write things
 
-<a href="https://runcoderuncode.com"><img width="64px" height="64px" src="https://github.com/josephroquedev/josephroquedev/raw/main/icons/RunCodeRunCode.png" /></a>
+<a href="https://runcode.blog"><img width="64px" height="64px" src="https://github.com/josephroquedev/josephroquedev/raw/main/icons/RunCodeRunCode.png" /></a>
 
 ## 🏃‍♂️ sometimes I go for runs
 
