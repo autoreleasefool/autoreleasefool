@@ -24,8 +24,3 @@
 
 <a href="https://runcode.blog"><img width="48px" height="48px" src="https://github.com/josephroquedev/josephroquedev/raw/main/icons/RunCodeRunCode.png" /></a>
 
-## 🏃‍♂️ sometimes I go for runs
-
-<a href="https://www.strava.com/athletes/23489239"><img width="64px" height="64px" src="https://github.com/josephroquedev/josephroquedev/raw/main/icons/Strava.png" /></a>
-<img width="16px" />
-<a href="https://connect.garmin.com/modern/profile/fd27c6ed-ac65-45a8-a552-7e53b80a1e66"><img width="64px" height="64px" src="https://github.com/josephroquedev/josephroquedev/raw/main/icons/Garmin.png" /></a>
