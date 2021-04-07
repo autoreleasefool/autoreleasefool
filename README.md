@@ -10,7 +10,7 @@
 <img width="8px" />
 <a href="https://github.com/autoreleasefool/campus-guide"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/CampusGuide.png" width="48px" height="48px" /></a>
 <img width="8px" />
-<a href="https://github.com/autoreleasefool/hive-mind"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/HiveMind.png" width="48px" height="48px" /></a>
+<a href="https://github.com/autoreleasefool/hive-for-ios"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/HiveMind.png" width="48px" height="48px" /></a>
 <img width="8px" />
 <a href="https://github.com/autoreleasefool/myLeaderboard"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/MyLeaderboard.png" width="48px" height="48px" /></a>
 
