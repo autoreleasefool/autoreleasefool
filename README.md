@@ -12,7 +12,9 @@
 
 ### 🧑‍💻 I've worked on some cool teams
 
-<a href="https://shopify.com/mobile"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Shopify.png" width="47px" height="48px" /></a>
+<a href="https://slack.com"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Slack.png" width="48px" height="48px" /></a>
+<img width="8px" />
+<a href="https://shopify.com/mobile"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Shopify.png" width="48px" height="48px" /></a>
 <img width="8px" />
 <a href="https://shop.app"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Shop.png" width="48px" height="48px" /></a>
 
