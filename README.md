@@ -2,7 +2,7 @@
 
 ### 📱 mostly I build mobile apps for 🤖 and 🍎
 
-<a href="https://github.com/autoreleasefool/bowling-companion"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Approach.png" width="48px" height="48px" /></a>
+<a href="https://github.com/autoreleasefool/approach"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Approach.png" width="48px" height="48px" /></a>
 <img width="8px" />
 <a href="https://github.com/autoreleasefool/q-less-clues"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Clueless.png" width="48px" height="48px" /></a>
 <img width="8px" />
