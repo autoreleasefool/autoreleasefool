@@ -1,4 +1,4 @@
-## 👋 I'm an iOS dev from 🇨🇦
+## 👋 I'm a mobile developer from 🇨🇦
 
 ### 📱 mostly I build mobile apps for 🤖 and 🍎
 
