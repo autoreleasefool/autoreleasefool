@@ -14,6 +14,7 @@
 
 ### 🧑‍💻 I've worked on some cool teams
 
+<a href="https://songkick.com"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Songkick.png" width="48px" height="48px" /></a>
 <a href="https://www.atob.com"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/AtoB.png" width="48px" height="48px" /></a>
 <img width="8px" />
 <a href="https://slack.com"><img src="https://github.com/autoreleasefool/autoreleasefool/raw/main/icons/Slack.png" width="48px" height="48px" /></a>
